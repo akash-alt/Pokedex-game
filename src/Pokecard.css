@@ -1,0 +1,19 @@
+.Pokecard{
+    /* border: 2px solid royalblue; */
+    width: 300px;
+    padding: 1rem;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #fff;
+    box-shadow: 10px 10px 12px 12px rgba(0, 0, 0, 0.1);
+    
+}
+h1{
+    text-align: center;
+}
+/* .Pokecard img:hover{
+    width: 130px;
+} */
+.Pokecard-data{
+    font-size: 15px;
+}
